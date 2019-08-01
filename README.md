@@ -1,5 +1,5 @@
 # Quiz_App
-Simple quiz app.
+Simple flutter quiz app.
 
 # How to use these files:
 
