@@ -13,4 +13,4 @@ If you want to run the code, you can do that as well though.
   4) flutter run (with a running emulator or real device connected to your machine) to view the app.
 
 # App review:
-![Image](app_review.gif)
+<img src="app_review.gif" height="700"/>
